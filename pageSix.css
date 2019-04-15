@@ -1,0 +1,43 @@
+body {
+  margin: 30px auto;
+  max-width: 1000px;
+  font-family: "Helvetica", "Arial", sans-serif;
+  line-height: 1.5;
+  padding: 30px 20px;
+  text-align: center;
+}
+
+body {
+  background-image: url("images/picnic.jpg");
+  background-repeat: repeat;
+}
+
+h1 {
+  color: Black;
+  padding: 20px 0px 10px 0px;
+  text-align: center;
+}
+
+.box {
+  background-color: #7f0a0a;
+  width: 600px;
+  border: 5px solid black;
+  padding: 25px;
+  margin: 25px auto;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  text-decoration: none;
+  text-decoration-color: black;
+}
